@@ -1,4 +1,10 @@
 {
+    "info": {
+        "count": 3,
+        "pages": 1,
+        "next": null,
+        "prev": null
+    },
     "propiedades": [
         { 
             "id": 1, 
