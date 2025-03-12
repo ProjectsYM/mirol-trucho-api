@@ -26,7 +26,7 @@
     },
     "propietarios": [
         { 
-            "id": "123", 
+            "id": 123, 
             "nombre": "Juan Carlos", 
             "propiedades": ["1", "2"] 
         }
