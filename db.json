@@ -3,26 +3,24 @@
         { 
             "id": 1, 
             "direccion": "9 de Julio", 
-            "edificio": "AguaMarina", 
-            "inquilinoId": "123" 
+            "edificio": "AguaMarina"
         },
         { 
             "id": 2, 
             "direccion": "Roma", 
-            "edificio": "AguaMarina", 
-            "inquilinoId": "123" 
+            "edificio": "AguaMarina"
         },
         { 
             "id": 3, 
             "direccion": "Obispo Trejo", 
-            "edificio": "AguaMarina", 
-            "inquilinoId": "456" 
+            "edificio": "AguaMarina"
         }
     ],
     "propietarios": [
         {
             "id": 123,
             "nombre": "Juan Carlos",
+            "apellido": "Rodriguez",
             "propiedades": ["1", "2"]
         }
     ]
