@@ -1,5 +1,5 @@
 {
-    "propiedades": {
+    "allPropiedades": {
         "info": {
             "count": 3,
             "pages": 1,
@@ -24,6 +24,23 @@
             }
         ]
     },
+    "propiedades": [
+            { 
+                "id": 1, 
+                "direccion": "9 de Julio", 
+                "edificio": "AguaMarina"
+            },
+            { 
+                "id": 2, 
+                "direccion": "Roma", 
+                "edificio": "AguaMarina"
+            },
+            { 
+                "id": 3, 
+                "direccion": "Obispo Trejo", 
+                "edificio": "AguaMarina"
+            }
+        ],
     "propietarios": [
         { 
             "id": 123, 
