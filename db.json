@@ -15,13 +15,5 @@
             "direccion": "Obispo Trejo", 
             "edificio": "AguaMarina"
         }
-    ],
-    "propietarios": [
-        {
-            "id": 123,
-            "nombre": "Juan Carlos",
-            "apellido": "Rodriguez",
-            "propiedades": ["1", "2"]
-        }
     ]
 }
