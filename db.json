@@ -1,19 +1,19 @@
 {
     "propiedades": [
         { 
-            "id": "1", 
+            "id": 1, 
             "direccion": "9 de Julio", 
             "building": "AguaMarina", 
             "inquilinoId": "123" 
         },
         { 
-            "id": "2", 
+            "id": 2, 
             "direccion": "Roma", 
             "building": "AguaMarina", 
             "inquilinoId": "123" 
         },
         { 
-            "id": "3", 
+            "id": 3, 
             "direccion": "Obispo Trejo", 
             "building": "AguaMarina", 
             "inquilinoId": "456" 
@@ -21,7 +21,7 @@
     ],
     "propietarios": [
         {
-            "id": "123",
+            "id": 123,
             "nombre": "Juan Carlos",
             "propiedades": ["1", "2"]
         }
