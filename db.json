@@ -1,25 +1,34 @@
 {
-    "info": {
-        "count": 3,
-        "pages": 1,
-        "next": null,
-        "prev": null
+    "propiedades": {
+        "info": {
+            "count": 3,
+            "pages": 1,
+            "next": null,
+            "prev": null
+        },
+        "results": [
+            { 
+                "id": 1, 
+                "direccion": "9 de Julio", 
+                "edificio": "AguaMarina"
+            },
+            { 
+                "id": 2, 
+                "direccion": "Roma", 
+                "edificio": "AguaMarina"
+            },
+            { 
+                "id": 3, 
+                "direccion": "Obispo Trejo", 
+                "edificio": "AguaMarina"
+            }
+        ]
     },
-    "propiedades": [
+    "propietarios": [
         { 
-            "id": 1, 
-            "direccion": "9 de Julio", 
-            "edificio": "AguaMarina"
-        },
-        { 
-            "id": 2, 
-            "direccion": "Roma", 
-            "edificio": "AguaMarina"
-        },
-        { 
-            "id": 3, 
-            "direccion": "Obispo Trejo", 
-            "edificio": "AguaMarina"
+            "id": "123", 
+            "nombre": "Juan Carlos", 
+            "propiedades": ["1", "2"] 
         }
     ]
 }
