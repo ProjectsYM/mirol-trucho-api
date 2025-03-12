@@ -3,19 +3,19 @@
         { 
             "id": 1, 
             "direccion": "9 de Julio", 
-            "building": "AguaMarina", 
+            "edificio": "AguaMarina", 
             "inquilinoId": "123" 
         },
         { 
             "id": 2, 
             "direccion": "Roma", 
-            "building": "AguaMarina", 
+            "edificio": "AguaMarina", 
             "inquilinoId": "123" 
         },
         { 
             "id": 3, 
             "direccion": "Obispo Trejo", 
-            "building": "AguaMarina", 
+            "edificio": "AguaMarina", 
             "inquilinoId": "456" 
         }
     ],
