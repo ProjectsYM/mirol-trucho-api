@@ -129,7 +129,16 @@
         { 
             "id": 123, 
             "nombre": "Juan Carlos", 
-            "propiedades": ["1", "2"] 
+            "servicios": [
+                {
+                    "id": "1",
+                    "fechaIngreso": "01/08/2023"
+                },
+                {
+                    "id": "2",
+                    "fechaIngreso": "08/02/2024"
+                }
+            ]
         }
     ]
 }
