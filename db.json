@@ -93,7 +93,7 @@
                 "servicios": [
                     {
                         "nombre": "agua",
-                        "fechas": ["01/25", "02/25, 03/25"]
+                        "fechas": ["01/25", "02/25", "03/25"]
                     },
                     {
                         "nombre": "rentas",
@@ -112,7 +112,7 @@
                 "servicios": [
                     {
                         "nombre": "agua",
-                        "fechas": ["01/25", "02/25, 03/25"]
+                        "fechas": ["01/25", "02/25", "03/25"]
                     },
                     {
                         "nombre": "luz",
