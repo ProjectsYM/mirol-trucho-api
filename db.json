@@ -30,29 +30,57 @@
                 "direccion": "9 de Julio", 
                 "edificio": "",
                 "servicios": [
-                {
-                    "nombre": "agua",
-                    "fechas": ["01/25", "02/25, 03/25"]
-                },
-                {
-                    "nombre": "luz",
-                    "fechas": ["01/25", "02/25"]
-                },
-                {
-                    "nombre": "gas",
-                    "fechas": ["01/25", "02/25"]
-                }
-            ]
+                    {
+                        "nombre": "agua",
+                        "fechas": ["01/25", "02/25, 03/25"]
+                    },
+                    {
+                        "nombre": "luz",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": ["01/25", "02/25"]
+                    }
+                ]
             },
             { 
                 "id": 2, 
                 "direccion": "Roma", 
-                "edificio": "Aguamarina V"
+                "edificio": "Aguamarina V",
+                "servicios": [
+                    {
+                        "nombre": "agua",
+                        "fechas": ["01/25", "02/25, 03/25"]
+                    },
+                    {
+                        "nombre": "rentas",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": ["01/25", "02/25"]
+                    }
+                ]
             },
             { 
                 "id": 3, 
                 "direccion": "Obispo Trejo", 
-                "edificio": "Aguamarina I"
+                "edificio": "Aguamarina I",
+                "servicios": [
+                    {
+                        "nombre": "agua",
+                        "fechas": ["01/25", "02/25, 03/25"]
+                    },
+                    {
+                        "nombre": "luz",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": ["01/25", "02/25"]
+                    }
+                ]
             }
         ],
     "propietarios": [
